@@ -1,13 +1,14 @@
 -----------------------------------------------------------------------------
 Ordinateur uniquement pour Tails :
 
-pas de disque dur interne
-pas de données personnelles
-webcam retirée
-micro retiré
-Wi-Fi wlan card retiré
-Bluetooth retiré
-speaker retiré
+-pas de disque dur interne
+-pas de données personnelles
+-webcam retirée
+-micro retiré
+-Wi-Fi wlan card retiré
+-Bluetooth retiré
+-speaker retiré
+
 Tu obtiens une sorte de "terminal Tor jetable".
 
 
