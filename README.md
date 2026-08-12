@@ -8,7 +8,7 @@ Ordinateur uniquement pour Tails :
 -Wi-Fi wlan card retiré
 -Bluetooth retiré
 -speaker retiré
-
+- remove battery from the portable computer to protect ram when is unplug ram get erased
 Tu obtiens une sorte de "terminal Tor jetable".
 
 
