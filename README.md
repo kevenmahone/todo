@@ -1,16 +1,4 @@
-Beryl AX (GL-MT3000) Pocket-sized AX3000 Wi-Fi 6 Travel Router
-
-
-
-https://www.gl-inet.com/en-ca/products/gl-mt3000?_pos=1&_psq=Beryl+AX+GL-MT3000&_psid=ecee4af84&_ss=e&country=CA
-
-------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------
 Ordinateur uniquement pour Tails :
 
 pas de disque dur interne
@@ -23,7 +11,7 @@ speaker retiré
 Tu obtiens une sorte de "terminal Tor jetable".
 
 
-tails computer connected by ethernet cable to the router vpn if no ethernet port on the computer you can use a linux usb ethernet
+tails computer connected by ethernet cable to the router firewall vpn if no ethernet port on the computer you can use a linux usb ethernet
 
 
 
@@ -33,7 +21,7 @@ tails with a dvd -R you can install tails there and after the os was installed i
 
 
 
-optional but good idea add a firewal between vpn router and tails pc 
+add a vpn firewall router
 
 FW2B this model 
 
@@ -42,12 +30,12 @@ Protectli Vault FW2B - 2 ports, pare-feu Micro Appliance/Mini PC - Intel Dual Co
 
 https://protectli.com/product/fw2b/
 
-prendre sans wifi bluetooth and install opnsense
+prendre sans wifi bluetooth and install opnsense as operating system
 
-use ia to ask how to config it to allow the vpn conection only 
+use ia to ask how to config it to allow the vpn conection only and tor in tails
 
 
-in opensense add possibilité d'ajouter IDS/IPS comme Suricata 
+in opensense add possibilité d'ajouter IDS/IPS comme Suricata not needed  
 
 
 use graphene os for your phone dont do illegal thing they can open it 
