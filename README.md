@@ -1,14 +1,15 @@
 -----------------------------------------------------------------------------
 Ordinateur uniquement pour Tails :
 
--pas de disque dur interne
--pas de données personnelles
--webcam retirée
--micro retiré
--Wi-Fi wlan card retiré
--Bluetooth retiré
--speaker retiré
+- pas de disque dur interne
+- pas de données personnelles
+- webcam retirée
+- micro retiré
+- Wi-Fi wlan card retiré
+- Bluetooth retiré
+- speaker retiré
 - remove battery from the portable computer to protect ram when is unplug ram get erased
+
 Tu obtiens une sorte de "terminal Tor jetable".
 
 
