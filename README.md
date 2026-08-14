@@ -28,6 +28,10 @@ add a vpn firewall router
 FW2B this model 
 
 
+
+in the router disable ipv6
+
+
 Protectli Vault FW2B - 2 ports, pare-feu Micro Appliance/Mini PC - Intel Dual Core, AES-NI, 4 Go de RAM, 32 Go SSD mSATA 
 
 https://protectli.com/product/fw2b/
