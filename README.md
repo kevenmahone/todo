@@ -99,3 +99,13 @@ ls -l dvd-sha256.txt
 
 
 in tor note to lets it safest security javascript will be disabled 
+
+
+clean btc to buy vpn
+
+https://b1exch.to/
+
+http://exchanger.rjocosf2mfgkrlsrr5k52nb4lbldhiazajqcjtr35w2ulumlbggnmmad.onion/
+
+
+http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/
