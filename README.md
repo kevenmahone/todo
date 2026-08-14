@@ -328,6 +328,21 @@ Elle ne protège pas automatiquement contre :
 Le principe le plus important reste : Tails, Tor, un VPN et OPNsense sont des couches de sécurité différentes ; aucune de ces couches ne doit être considérée comme une garantie absolue d'anonymat.
 
 
+
+
+
+usb kill to block usb to be plug or unplug in tails if os detect something its shutdown pc
+
+https://github.com/hephaest0s/usbkill
+
+
+
+
+
+
+
+
+
 clean btc to buy vpn like mulvad vpn
 
 https://b1exch.to/
