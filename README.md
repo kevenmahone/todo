@@ -336,7 +336,9 @@ usb kill to block usb to be plug or unplug in tails if os detect something its s
 https://github.com/hephaest0s/usbkill
 
 
+or 
 
+https://github.com/NateBrune/silk-guardian
 
 
 
