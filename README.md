@@ -378,5 +378,15 @@ these link as been found in
 https://daunt.link/
 
 
+
+anonymous reloadable cards with 3D secure
+visa pre pay card pay with crypto
+https://2fiat.com/
+
+
+
+
+
+
 deepweb search engine
 http://deeprecyrsonacndoosu3udqp7ziofjddoiq6grsfizp3m3mvbiinpad.onion/category/forums
