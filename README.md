@@ -331,6 +331,7 @@ Le principe le plus important reste : Tails, Tor, un VPN et OPNsense sont des co
 
 
 
+
 usb kill to block usb to be plug or unplug in tails if os detect something its shutdown pc
 
 https://github.com/hephaest0s/usbkill
@@ -339,6 +340,18 @@ https://github.com/hephaest0s/usbkill
 or 
 
 https://github.com/NateBrune/silk-guardian
+
+
+
+
+install a sandbox in tails 
+
+
+sudo apt update
+sudo apt install firejail firetools
+install vlc too and start firetools test it or start terminal start firejail vlc
+
+firejail --net=none vlc
 
 
 
