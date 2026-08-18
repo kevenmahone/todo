@@ -243,17 +243,7 @@ Mais Suricata n'est pas obligatoire pour faire fonctionner Tails + Tor + VPN.
 - Un IDS placé devant Tor ne peut donc pas forcément inspecter le contenu final du trafic Tor.
 - Il peut néanmoins détecter certains comportements réseau, scans, connexions suspectes et signatures réseau.
 
-12. TÉLÉPHONE
 
-Pour un téléphone personnel, utiliser un système de sécurité comme GrapheneOS peut fournir une bonne base de sécurité.
-
-Mais :
-
-- aucun système n'est invulnérable ;
-- un téléphone compromis peut exposer des informations ;
-- il faut maintenir le système et les applications à jour ;
-- il faut éviter d'installer des applications provenant de sources inconnues ;
-- il ne faut pas considérer GrapheneOS ou Tails comme une garantie d'anonymat.
 
 13. ARCHITECTURE FINALE
     
@@ -344,14 +334,6 @@ https://github.com/NateBrune/silk-guardian
 
 
 
-install a sandbox in tails 
-
-
-sudo apt update
-sudo apt install firejail firetools
-install vlc too and start firetools test it or start terminal start firejail vlc
-
-firejail --net=none vlc
 
 
 
