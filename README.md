@@ -1,3 +1,7 @@
+il faut 8-16 go ram dans le pc
+
+
+
 ARCHITECTURE TAILS + OPNSENSE + VPN
 
 OBJECTIF
