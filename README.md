@@ -345,11 +345,16 @@ with potential virus inside
 
 do like that 
 
-you open tails fallow this tutorial here you download a few video you remove ethernet cable you look the video after shutdown tails correctly and wait 30 min thé computer need to be unplug and no baterry.
+you open tails fallow this tutorial here you download a few video you remove ethernet cable you look the video after 
+shutdown tails correctly 
+and wait 30 min the computer need to be unplug and no baterry.
 
 
 
-if the virus hack the bios or router they will get persistence
+if the virus hack the bios or router they will get persistence but is rare
+
+
+
 
 
 
