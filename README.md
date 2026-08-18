@@ -358,6 +358,24 @@ firejail --net=none vlc
 
 
 
+For Looking a video (movie or hacking guide )
+with potential virus inside
+
+do like that 
+
+you open tails fallow this tutorial here you download a few video you remove ethernet cable you look the video after shutdown tails correctly and wait 30 min thé computer need to be unplug and no baterry.
+
+
+
+if the virus hack the bios or router they will get persistence
+
+
+
+
+
+
+
+
 clean btc to buy vpn like mulvad vpn
 
 https://b1exch.to/
