@@ -379,6 +379,16 @@ http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/
 
 
 
+you can try to buy crypto like btc with interac here :
+
+https://localcoinswap.com/buy/bitcoin/canada/interac-e-transfer
+
+
+
+
+
+
+
 http://xmxmrjoqo63c5notr2ds2t3pdpsg4ysqqe6e6uu2pycecmjs4ekzpmyd.onion/
 
 
