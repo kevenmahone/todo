@@ -379,9 +379,7 @@ http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/
 
 
 
-you can try to buy crypto like btc with interac here :
 
-https://localcoinswap.com/buy/bitcoin/canada/interac-e-transfer
 
 
 
@@ -401,7 +399,7 @@ https://daunt.link/
 
 anonymous reloadable cards with 3D secure
 visa pre pay card pay with crypto
-https://2fiat.com/
+https://www.lanocard.com
 
 
 
