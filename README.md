@@ -431,3 +431,7 @@ https://kycnot.me/
 
 
 
+if the vpn router the first is not possible
+
+
+https://www.gl-inet.com/en-ca/products/gl-mt3000?srsltid=AfmBOopAqDBhv3NvLVXZDLFxBTHQuu2DuDPYyFyJk11maP_SAfArYE39&country=CA
