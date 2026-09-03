@@ -413,7 +413,6 @@ https://www.bitrefill.com/
 
 to try
 
-https://orangefren.com/
 
 > https://stealthex.io
 > https://changenow.io
