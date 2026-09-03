@@ -420,8 +420,8 @@ to try
 
 
 
-sell btc to bank in canada or interac no kyc
-phone number and mail requiered
+sell btc to bank in canada or interac no kyc under 1000$ cad
+phone number and mail requiered 
 https://app.bullbitcoin.com/
 
 
