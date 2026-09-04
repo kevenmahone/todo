@@ -455,3 +455,10 @@ https://www.gl-inet.com/en-ca/products/gl-mt3000?srsltid=AfmBOopAqDBhv3NvLVXZDLF
 storing btc or monero wallet in metal coin
 https://www.seedor.io/products/seedor-safe-starter-set-plus
 
+
+make a card with a qr code to scan to send btc into the wallet
+and on the card we can share our public key of the wallet
+
+https://www.luxebusinesscards.ca/metal-business-cards/?utm_source=chatgpt.com
+
+
