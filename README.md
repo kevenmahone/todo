@@ -456,6 +456,15 @@ storing btc or monero wallet in metal coin
 https://www.seedor.io/products/seedor-safe-starter-set-plus
 
 
+
+like seedor low price:
+https://www.etsy.com/ca-fr/listing/1891536040/phrase-de-recuperation-securisee?ref=share_v4_lx
+
+
+
+
+
+
 make a card with a qr code to scan to send btc into the wallet
 and on the card we can share our public key of the wallet
 
