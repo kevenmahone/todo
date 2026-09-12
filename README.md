@@ -486,3 +486,9 @@ https://cardsrelay.com/gift-cards
 https://cryptwerk.com/market/product/esso-and-mobil-digital-gift-card-electronic-delivery-4221063/
 
 
+ a tester
+https://silent.link/rates?utm_source=chatgpt.com
+
+une esim sa prend 0 sim card physique si le telephone est compatibles il suffit de scanner code qr fournis apres lachat sur silent.link 
+sais anonyme 0 mail 0 numéro 0 nom. payable en btc
+ 
