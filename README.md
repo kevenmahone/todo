@@ -502,3 +502,12 @@ https://simbear.io/?location=CA
 
 like silent link but low price 
 https://nadanada.me
+
+
+
+like silent link llw price
+https://www.bitrefill.com/ca/fr/esims/bitrefill-esim-canada/?operator_slug=bitrefill-esim-canada&package=10GB%2C+30+Days&count=1
+
+
+
+
