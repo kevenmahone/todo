@@ -492,3 +492,8 @@ https://silent.link/rates?utm_source=chatgpt.com
 une esim sa prend 0 sim card physique si le telephone est compatibles il suffit de scanner code qr fournis apres lachat sur silent.link 
 sais anonyme 0 mail 0 numéro 0 nom. payable en btc
  
+
+
+same as silent link low price i think 
+https://simbear.io/?location=CA
+
