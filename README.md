@@ -510,4 +510,9 @@ https://www.bitrefill.com/ca/fr/esims/bitrefill-esim-canada/?operator_slug=bitre
 
 
 
+tangem wallet secure and offer 3 card who requiere a code to connect to is wallet they offer a ring too 
+
+https://tangem.com/fr/?promocode=GG10&utm_source=google&utm_medium=cpc&utm_campaign=network:google|plt:search|sem:brand|lngg:eng|geo:ww2|name:rest_geo|date:160126&utm_term=tangem|kwd-1168514846331&utm_content=cid:23468085260|adid:793042593483|gid:192313759112|tgid:kwd-1168514846331|src:|dev:m|pn:|keyword:tangem|mt:e|expansion:|site:|csite:|devmod:|lockw:|locphy:2442|nw:g&gad_source=1&gad_campaignid=23468085260&gclid=EAIaIQobChMI-r7u04KclwMV0oJ8Bh1clAwnEAAYASAAEgL0iPD_BwE
+
+
 
