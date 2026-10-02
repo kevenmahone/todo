@@ -514,8 +514,8 @@ ledger take 3 card recorvery and ledger flex
 
 https://shop.ledger.com/products/ledger-recovery-key-3-pack-bundle
 
-
-
+how to setup ledger flex video
+https://youtu.be/IFYuqyoTm80?si=Y--0r1Oq9arCiZM8
 
 
 
