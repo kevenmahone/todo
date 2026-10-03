@@ -531,3 +531,4 @@ et esssyer activer la localisation sur app store.
 si non ya aurora store qui remplace lapp store 
 
 
+prendre note ledger wallet app fonctionne seulement si lip vpn est au canada si ont utilise invizible pro pour passer lip via tor et pleim de pays sa fonctionne pas .
