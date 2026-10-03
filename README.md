@@ -523,3 +523,5 @@ https://youtu.be/IFYuqyoTm80?si=Y--0r1Oq9arCiZM8
 il foudras aussi ledger wallet app sur android 
 
 https://shop.ledger.com/pages/ledger-wallet-download?utm_source=chatgpt.com
+
+si sa ne marche pas csr le pays de location nest pas canada sur lapp store alors esseye aurora store sa remplace application store de android et il a ledger wallet app sur aurora store . a tester
