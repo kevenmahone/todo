@@ -510,7 +510,7 @@ https://www.bitrefill.com/ca/fr/esims/bitrefill-esim-canada/?operator_slug=bitre
 
 
 
-ledger take 3 card recorvery and ledger flex
+ledger take only ledger flex because if you take 3 card recorvery key if someone steal the card they can recorver the wallet and its the end
 
 https://shop.ledger.com/products/ledger-recovery-key-3-pack-bundle
 
