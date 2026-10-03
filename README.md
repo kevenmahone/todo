@@ -510,9 +510,10 @@ https://www.bitrefill.com/ca/fr/esims/bitrefill-esim-canada/?operator_slug=bitre
 
 
 
-ledger take only ledger flex because if you take 3 card recorvery key if someone steal the card they can recorver the wallet and its the end
+ledger take only ledger flex because if you take 3 card recorvery key if someone steal the card they can recorver the wallet and its the end with only flex to buy they provide 1 key free but dont use it 
 
-https://shop.ledger.com/products/ledger-recovery-key-3-pack-bundle
+with this link you have 20$ in btc to claim
+https://shop.ledger.com/?r=f3f59e340ecb
 
 how to setup ledger flex video
 https://youtu.be/IFYuqyoTm80?si=Y--0r1Oq9arCiZM8
