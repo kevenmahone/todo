@@ -524,4 +524,10 @@ il foudras aussi ledger wallet app sur android
 
 https://shop.ledger.com/pages/ledger-wallet-download?utm_source=chatgpt.com
 
-si sa ne marche pas csr le pays de location nest pas canada sur lapp store alors esseye aurora store sa remplace application store de android et il a ledger wallet app sur aurora store . a tester
+si sa ne marche pas car le pays de location nest pas canada il suffit de prendre un vpn comme windscribe et choisir un ip canada ensuite aller voir dans les settings de app store si le pays loccation est canada si non change ip de canada ou change de vpn . 
+et esssyer activer la localisation sur app store.
+
+
+si non ya aurora store qui remplace lapp store 
+
+
