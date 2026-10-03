@@ -520,3 +520,6 @@ https://youtu.be/IFYuqyoTm80?si=Y--0r1Oq9arCiZM8
 
 
 
+il foudras aussi ledger wallet app sur android 
+
+https://shop.ledger.com/pages/ledger-wallet-download?utm_source=chatgpt.com
